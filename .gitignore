@@ -1,0 +1,9 @@
+venv/
+
+alurareceita/__pycache__/
+
+receitas/__pycache__/
+
+receitas/migrations/__pycache__/
+
+anotacoes.txt
